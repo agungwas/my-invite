@@ -368,13 +368,13 @@ function App() {
             2014
           </div>
           <div className="quote">
-            Pertemuan pertama kami di awali pada tahun ini. Selang waktu berjalan kami saling mengenal satu sama lain. Tentu saja diwarnai dengan suka dan duka bersama. Hingga di tahun 2019 pada bulan yang berbeda kami berdua lulus kuliah dan memulai hubungan dari jarak jauh.
+            Pertemuan pertama kami di awali pada tahun ini dan memulai hubungan dari jarak jauh. Selang waktu berjalan kami saling mengenal satu sama lain. Tentu saja diwarnai dengan suka dan duka bersama.
           </div>
           <div className="quote-end">
-            16 Mei 2021
+            25 Mei 2021
           </div>
           <div className="quote">
-            Bagus menemui orang tua Erly dan menyampaikan maksudnya untuk serius dan menikahi Erly yang kemudian dilanjutkan dengan pertemuan keluarga. Alhamdulillah acara lamaran berjalan dengan lancar.
+            Agung menemui orang tua Lusi dan menyampaikan maksudnya untuk serius dan menikahi Lusi yang kemudian dilanjutkan dengan pertemuan keluarga. Alhamdulillah acara lamaran berjalan dengan lancar.
           </div>
           <div className="quote-end">
             14 September 2021
