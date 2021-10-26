@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15" height="15.728" viewBox="0 0 15 15.728">
+  <g id="couple_inactive" transform="translate(-36 -236.332)">
+    <g id="Ellipse_697" data-name="Ellipse 697" transform="translate(36 241.06)" fill="none" stroke="#cbcbcb" stroke-width="2">
+      <circle cx="5.5" cy="5.5" r="5.5" stroke="none"/>
+      <circle cx="5.5" cy="5.5" r="4.5" fill="none"/>
+    </g>
+    <g id="Ellipse_698" data-name="Ellipse 698" transform="translate(43 244.06)" fill="none" stroke="#cbcbcb" stroke-width="1.5">
+      <circle cx="4" cy="4" r="4" stroke="none"/>
+      <circle cx="4" cy="4" r="3.25" fill="none"/>
+    </g>
+    <g id="kisah_icon" data-name="kisah icon" transform="translate(43.667 236.332)">
+      <g id="Group_196" data-name="Group 196">
+        <g id="Group_195" data-name="Group 195">
+          <path id="Path_352" data-name="Path 352" d="M415.307,491.529c-1.158-2.019-3.574-1.678-3.574.8,0,1.75,3.574,4.149,3.574,4.149s3.573-2.449,3.573-4.149C418.88,489.851,416.464,489.51,415.307,491.529Z" transform="translate(-411.733 -490.216)" fill="#cbcbcb"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

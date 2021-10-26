@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10.171" height="13.201" viewBox="0 0 10.171 13.201">
+  <g id="buku_tamu_inactive" data-name="buku tamu_inactive" transform="translate(899.5 -866.33)">
+    <g id="Group_3928" data-name="Group 3928" transform="translate(-899.5 866.33)">
+      <path id="Path_25160" data-name="Path 25160" d="M-905.5,866.916l9.507-.585a.626.626,0,0,1,.664.625v10.415a.626.626,0,0,1-.655.625h-1.111" transform="translate(905.5 -866.33)" fill="#b0b0b0"/>
+      <path id="Path_25161" data-name="Path 25161" d="M-896.95,880.555l-8-.965a.626.626,0,0,1-.551-.621V867.943l8.663,1.045a.47.47,0,0,1,.413.466v10.634A.469.469,0,0,1-896.95,880.555Z" transform="translate(905.5 -867.357)" fill="#cbcbcb"/>
+      <g id="Group_3927" data-name="Group 3927" transform="translate(2.174 3.736)">
+        <path id="Path_25163" data-name="Path 25163" d="M-897.1,882.042a.153.153,0,0,1-.291-.033,1.735,1.735,0,0,0-.9-1.382c-.693-.306-2.166-2.275-.357-2.906,1.1-.382,1.351,1.453,1.351,1.453s-.238-3.11,1.759-2.473C-893.5,877.352-896.21,879.993-897.1,882.042Z" transform="translate(899.517 -876.616)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
